@@ -21,4 +21,4 @@ This can be used either as a skill bar on your resume or a progress bar
   
  5)
  
-       <img src ="skillbar.png"></img>
+<img src ="skillbar.png"></img>
